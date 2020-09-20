@@ -6,7 +6,7 @@ I have good knowledge in frontend development, I have already created my own web
 <br>
 ------> [My website](https://semthan.github.io/)
 
-In addition to frontend development, I usually develop games with C# and unity3D, checkout one of my demos
+In addition to frontend development,I develop games using C# and unity3D, checkout one of my demos
 <br>
 ------> [Demo](https://simmer.io/@Semthan/num-two)
 
