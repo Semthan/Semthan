@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I study at nackademin to become a full stack developer open source, the education will focus on open source technology and to be more specific (MERN stack)
+I am junior full stack developer, focus on the open source technology and to be more specific (MERN stack)
 
-I have good knowledge in webdesign, I have already created my own website using HTML, CSS, Javascript and Bootstrap.
+I have good knowledge in webdesign, I have already created my own website/portfolio
 <br>
-------> [My website](https://semthan.github.io/)
+------> [My website](https://semthan.netlify.app/)
 
 In addition to webdesign,I develop games using C# and unity3D, checkout one of my demos
 <br>
@@ -12,6 +12,6 @@ In addition to webdesign,I develop games using C# and unity3D, checkout one of m
 
 You can also find me on social media
 <br>
-[Instagram](https://www.instagram.com/semthan.dev)
-<br>
 [Linkedin](https://www.linkedin.com/in/sarmad-al-bidhawi-99950697/)
+<br>
+[Instagram](https://www.instagram.com/semthan.dev)
